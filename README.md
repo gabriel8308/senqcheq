@@ -1,0 +1,2 @@
+# senqcheq
+Cultural Insensitivity Checker
